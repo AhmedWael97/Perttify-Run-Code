@@ -1,0 +1,21 @@
+body
+{
+	background-color:black ;
+}
+
+.jumbotron
+{
+	background-color: black;
+}
+.end-bar
+{
+	height: 50px;
+	background-color: white;
+	border-radius: 30px;
+	font-size: 25px;
+	bottom: 0;
+}
+.code
+{
+	font-size: 20px; color: #797272; padding-left: 15px; padding-top: 13px; padding-bottom: 9px;
+}
